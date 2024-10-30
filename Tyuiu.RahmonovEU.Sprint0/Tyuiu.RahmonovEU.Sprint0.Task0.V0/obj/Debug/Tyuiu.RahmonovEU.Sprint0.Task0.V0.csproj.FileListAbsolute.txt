@@ -1,0 +1,7 @@
+D:\Tyuiu.RahmonovEU.Sprint0\Tyuiu.RahmonovEU.Sprint0.Task0.V0\bin\Debug\Tyuiu.RahmonovEU.Sprint0.Task0.V0.exe.config
+D:\Tyuiu.RahmonovEU.Sprint0\Tyuiu.RahmonovEU.Sprint0.Task0.V0\bin\Debug\Tyuiu.RahmonovEU.Sprint0.Task0.V0.exe
+D:\Tyuiu.RahmonovEU.Sprint0\Tyuiu.RahmonovEU.Sprint0.Task0.V0\bin\Debug\Tyuiu.RahmonovEU.Sprint0.Task0.V0.pdb
+D:\Tyuiu.RahmonovEU.Sprint0\Tyuiu.RahmonovEU.Sprint0.Task0.V0\obj\Debug\Tyuiu.RahmonovEU.Sprint0.Task0.V0.csproj.AssemblyReference.cache
+D:\Tyuiu.RahmonovEU.Sprint0\Tyuiu.RahmonovEU.Sprint0.Task0.V0\obj\Debug\Tyuiu.RahmonovEU.Sprint0.Task0.V0.csproj.CoreCompileInputs.cache
+D:\Tyuiu.RahmonovEU.Sprint0\Tyuiu.RahmonovEU.Sprint0.Task0.V0\obj\Debug\Tyuiu.RahmonovEU.Sprint0.Task0.V0.exe
+D:\Tyuiu.RahmonovEU.Sprint0\Tyuiu.RahmonovEU.Sprint0.Task0.V0\obj\Debug\Tyuiu.RahmonovEU.Sprint0.Task0.V0.pdb
